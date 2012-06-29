@@ -1,6 +1,6 @@
 +Install instructions+
 
-Copy all of the files to assignment/type/kaltura
+Copy all of the files to mod/assignment/type/kaltura
 
 +Requirements+
 
