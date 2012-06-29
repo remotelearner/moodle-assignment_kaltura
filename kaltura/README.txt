@@ -1,6 +1,6 @@
 +Install instructions+
 
-Copy all of the files to mod/assignment/type/kaltura
+Copy the kaltura directory to your mod/assignment/type/ directory
 
 +Requirements+
 
